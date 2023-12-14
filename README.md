@@ -17,7 +17,7 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
 
 3) Il filtro migliora la luce e rende più vividi i colori?
     **se si**
-        -vado al punto 4
+        -vado al punto #4
     **altrimenti**
         -torno al punto #2
 
